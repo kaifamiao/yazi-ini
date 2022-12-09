@@ -15,7 +15,7 @@ main.cpp
 #include <iostream>
 using namespace std;
 
-#include "IniFile.h"
+#include <utility/IniFile.h>
 using namespace yazi::utility;
 
 int main()
